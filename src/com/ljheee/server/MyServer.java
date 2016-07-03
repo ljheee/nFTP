@@ -6,5 +6,6 @@ package com.ljheee.server;
  *
  */
 public class MyServer {
+	//todo
 
 }

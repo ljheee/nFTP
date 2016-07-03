@@ -10,6 +10,11 @@ import com.ljheee.ftp.MDUtil;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 
+/**
+ * the UI of client
+ * @author Administrator
+ *
+ */
 public class ClientFrame extends JFrame{
 
 	JLabel label_fileName,label_digest;

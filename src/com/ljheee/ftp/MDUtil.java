@@ -7,7 +7,7 @@ import java.security.NoSuchAlgorithmException;
 import java.util.Arrays;
 /**
  * Class of MD5's util
- * @author Administrator
+ * @author ljheee
  *
  */
 public class MDUtil {
